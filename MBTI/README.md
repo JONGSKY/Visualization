@@ -8,14 +8,6 @@
 
 ### 2. 시각화 설명
 
-
-![mbti-1](https://user-images.githubusercontent.com/40276516/84865339-018eed00-b0b3-11ea-95b0-18867da67b1b.png)
-![mbti-2](https://user-images.githubusercontent.com/40276516/84865343-02c01a00-b0b3-11ea-90f7-1e6546c36a5f.png)
-![mbti-3](https://user-images.githubusercontent.com/40276516/84865344-0358b080-b0b3-11ea-8aeb-b93c5714cb5c.png)
-![mbti-4](https://user-images.githubusercontent.com/40276516/84865345-03f14700-b0b3-11ea-9671-95a546c86dad.png)
-
-사진 출처 - [독취사 블로그](https://m.post.naver.com/viewer/postView.nhn?volumeNo=28133032&memberNo=15554453)
-
   2-1. 시각화 만든 이유
 
   - MBTI 성격 유형검사로 연애 mbti를 적용하면 쉽게 연애 스타일을 파악할 수 있는 재미있는 시각화를 만들어보았습니다.
