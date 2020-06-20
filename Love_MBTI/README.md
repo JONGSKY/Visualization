@@ -1,6 +1,7 @@
 # MBTI Visualization
 
 ### 0. 시각화
+<img width="1353" alt="love_mbti" src="https://user-images.githubusercontent.com/40276516/85206951-923e2500-b360-11ea-91a6-f18c6e96543f.png">
 
 ### 1. 제작기간
 
