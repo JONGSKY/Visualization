@@ -1,5 +1,5 @@
 # Love MBTI
-[SNS보러가기](https://www.instagram.com/p/CBsT1wYBlSF/)
+[SNS 보러가기](https://www.instagram.com/p/CBsT1wYBlSF/)
 
 ### 1. 시각화
 
