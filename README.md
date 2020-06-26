@@ -2,7 +2,7 @@
 제가 만든 시각화 정리 repository 입니다
 
 - [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI)
-- 복날, 어떻게 생기게 되었을까
+- [복날, 어떻게 생기게 되었을까](https://github.com/JONGSKY/Visualization/tree/master/dog_days)
 
 ## 시각화 규칙
 1. 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
