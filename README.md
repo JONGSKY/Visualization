@@ -3,7 +3,7 @@
 
 - [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI)
 - 복날의 유래
-- 헌혈에 대한 진실과 건강
+- 헌혈을 통해 알아보는 나의 건강상태
 
 ## 시각화 규칙
 1. 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
