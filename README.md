@@ -1,5 +1,6 @@
 # Visualization
 제가 만든 시각화 정리 repository 입니다
+[SNS 보러가기](https://www.instagram.com/jongsky_data/)
 
 - [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI)
 - 복날의 유래
