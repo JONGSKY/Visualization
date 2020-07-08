@@ -4,7 +4,7 @@
 
 - [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI)
 - 복날의 유래
-- 헌혈 (헌혈, 좋은 것일까? 나쁜 것일까? & 헌혈로 알아보는 내 건강상태)
+- [헌혈 (헌혈, 좋은 것일까? 나쁜 것일까? & 헌혈로 알아보는 내 건강상태)](https://github.com/JONGSKY/Visualization/tree/master/Blood_donation)
 
 ## 시각화 규칙
 1. 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
