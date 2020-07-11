@@ -1,11 +1,12 @@
 # Visualization
 제가 만든 시각화 정리 repository 입니다
 
+[시각화 보러가기](https://public.tableau.com/profile/.19603039#!/)
 [SNS 보러가기](https://www.instagram.com/jongsky_data/)
 
 - [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI)
-- 복날의 유래
 - [헌혈에 대한 궁금증들 (헌혈, 좋은 것일까? 나쁜 것일까?)](https://github.com/JONGSKY/Visualization/tree/master/Blood_donation)
+- 복날의 유래
 
 ## 시각화 규칙
 1. 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
