@@ -1,9 +1,11 @@
 # Blood donation
-[SNS 보러가기]
+
+[시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/blood_donation/sheet2)
+[SNS 보러가기]()
 
 ### 1. 시각화
 ##### : 헌혈에 대한 궁금증들 (헌혈, 좋은 것일까? 나쁜 것일까?)
-
+<img width="998" alt="스크린샷 2020-07-12 오전 2 38 34" src="https://user-images.githubusercontent.com/40276516/87230166-d913bd80-c3e8-11ea-8574-7589377f1789.png">
 
 ### 2. 시각화 설명
 
@@ -30,4 +32,3 @@
 
 ### 3. 데이터 출처
 - [대한적십자사](https://www.bloodinfo.net/main.do)
-- [코로나 퇴치 이미지사진](https://www.barrons.com/articles/a-blood-tests-that-could-get-america-back-to-work-51585960137)
