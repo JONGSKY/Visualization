@@ -1,6 +1,7 @@
 # Love MBTI
 
 [시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/love_mbti/Love_mbti)
+
 [SNS 보러가기](https://www.instagram.com/p/CBsT1wYBlSF/)
 
 ### 1. 시각화
