@@ -30,3 +30,4 @@
 
 ### 3. 데이터 출처
 - [대한적십자사](https://www.bloodinfo.net/main.do)
+- [코로나 퇴치 이미지사진](https://www.barrons.com/articles/a-blood-tests-that-could-get-america-back-to-work-51585960137)
