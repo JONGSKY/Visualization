@@ -2,7 +2,7 @@
 
 [시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/blood_donation/sheet2)
 
-[SNS 보러가기]()
+[SNS 보러가기](https://www.instagram.com/p/CCnLvPLBZMp/)
 
 ### 1. 시각화
 ##### : 헌혈에 대한 궁금증들 (헌혈, 좋은 것일까? 나쁜 것일까?)
