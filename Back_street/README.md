@@ -25,3 +25,4 @@ SNS 보러가기
 ### 3. 데이터 출처
 - [SBS 백종원의 골목식당](https://programs.sbs.co.kr/enter/street/main)
 - [위키백과 - 백종원의 골목식당](https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%A2%85%EC%9B%90%EC%9D%98_%EA%B3%A8%EB%AA%A9%EC%8B%9D%EB%8B%B9)
+- [나무위키 - 백종원의 골목식당](https://namu.wiki/w/%EB%B0%B1%EC%A2%85%EC%9B%90%EC%9D%98%20%EA%B3%A8%EB%AA%A9%EC%8B%9D%EB%8B%B9)
