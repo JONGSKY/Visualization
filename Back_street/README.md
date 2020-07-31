@@ -1,13 +1,12 @@
-# 제작중입니다!
-------------------------------------------------------------------------------------------------------
-
 # 백종원의 골목식당
 
-시각화 보러가기
+[시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/back_street_viz/1)
 
 SNS 보러가기
 
 ### 1. 시각화
+
+![back_street_img](https://user-images.githubusercontent.com/40276516/89027712-f1328900-d365-11ea-836f-ed536aad530d.png)
 
 ### 2. 시각화 설명
 
