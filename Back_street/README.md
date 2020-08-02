@@ -1,5 +1,7 @@
 # 백종원의 골목식당
 
+대시보드 보러가기
+
 [시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/back_street_viz/1)
 
 
