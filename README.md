@@ -8,7 +8,7 @@
 - [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI)
 - [헌혈에 대한 궁금증들 (헌혈, 좋은 것일까? 나쁜 것일까?)](https://github.com/JONGSKY/Visualization/tree/master/Blood_donation)
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
-- 대한민국 군대 군사력
+- 국가별 군사력
 
 ## 시각화 규칙
 1. 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
