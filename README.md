@@ -10,6 +10,7 @@
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
 - 국가별 군사력
 - 홍수관련 시각화
+- 코로나 시각화
 
 ## 시각화 규칙
 1. 적어도 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
