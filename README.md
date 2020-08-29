@@ -10,7 +10,6 @@
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
 - 컴퓨터 필요 자격증 정리
 - 홍수관련 시각화
-- 코로나 시각화
 - 핸드폰으로 볼 수 있는 시각화 제작
 
 ## 시각화 규칙
