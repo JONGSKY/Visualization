@@ -20,3 +20,4 @@
 
 - [GLAM - 연애 능력치 테스트](http://mbti.glam.am/intro)
 - [16Personalities - MBTI 검사](https://www.16personalities.com/ko)
+- [](https://soju1117.tistory.com/134)
