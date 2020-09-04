@@ -20,4 +20,4 @@
 
 - [GLAM - 연애 능력치 테스트](http://mbti.glam.am/intro)
 - [16Personalities - MBTI 검사](https://www.16personalities.com/ko)
-- [](https://soju1117.tistory.com/134)
+- [연애 능력치 테스트, 나의 연애 성격 유형과 숨겨진 능력은?](https://soju1117.tistory.com/134)
