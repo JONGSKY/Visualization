@@ -5,7 +5,7 @@
 
 [SNS 보러가기](https://www.instagram.com/jongsky_data/)
 
-- [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI) - 이미지 수정 필요
+- [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI)
 - [헌혈에 대한 궁금증들 (헌혈, 좋은 것일까? 나쁜 것일까?)](https://github.com/JONGSKY/Visualization/tree/master/Blood_donation)
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
 - 컴퓨터 필요 자격증 정리
