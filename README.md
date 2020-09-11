@@ -8,6 +8,7 @@
 - [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI)
 - [헌혈에 대한 궁금증들 (헌혈, 좋은 것일까? 나쁜 것일까?)](https://github.com/JONGSKY/Visualization/tree/master/Blood_donation)
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
+- 집에서 뭐하지,, 영화보자!
 - 컴퓨터 필요 자격증 정리
 - 홍수관련 시각화
 - 핸드폰으로 볼 수 있는 시각화 제작
