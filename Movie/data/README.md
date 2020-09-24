@@ -7,3 +7,5 @@
   
   ![image](https://user-images.githubusercontent.com/40276516/94131496-f65d1180-fe98-11ea-98d1-6f9548f618db.png)
 
+- 출처
+  - [영화진흥위원회 오픈API](http://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do)
