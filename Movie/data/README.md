@@ -14,7 +14,7 @@
   
     - 요청 인터페이스
 
-    ![image](https://user-images.githubusercontent.com/40276516/94335748-9d1bec00-0018-11eb-8583-2921a23dabfd.png)
+    ![image](https://user-images.githubusercontent.com/40276516/94335819-13205300-0019-11eb-92c3-97f6b9be2fd2.png)
 
     - 응답 구조
 
