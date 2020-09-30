@@ -1,4 +1,8 @@
 key_info.json
 movie_data.csv
 movie_info_data.csv
+movie_url_data.csv
 result.csv
+
+# poster folder
+poster/
