@@ -10,8 +10,6 @@
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
 - [집에서 뭐하지,, 영화보자!](https://github.com/JONGSKY/Visualization/tree/master/Movie)
 - 컴퓨터 필요 자격증 정리
-- 홍수관련 시각화
-- 코로나로 바뀐 세상 (수업, 생활, 등등)
 
 ## 시각화 규칙
 1. 적어도 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
