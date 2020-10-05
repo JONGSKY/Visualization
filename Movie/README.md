@@ -12,4 +12,4 @@ SNS 보러가기
 
 ### 3. 데이터 출처
 - [KOFIC 영화권입장권통합전산망 오픈API](http://www.kobis.or.kr/kobisopenapi/homepg/main/main.do)
-- [네이버영화순위](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&query=2020%EB%85%84%20%EC%98%81%ED%99%94%20%EC%88%9C%EC%9C%84)
+- [네이버 영화](https://movie.naver.com/)
