@@ -6,9 +6,12 @@ SNS 보러가기
 
 ### 1. 시각화
 
+
 ### 2. 시각화 설명
 
+
 #### 시각화 만든 이유
+
 
 ### 3. 데이터 출처
 - [KOFIC 영화권입장권통합전산망 오픈API](http://www.kobis.or.kr/kobisopenapi/homepg/main/main.do)
