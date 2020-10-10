@@ -24,3 +24,4 @@
 
 - 출처
   - [영화진흥위원회 오픈API](http://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do)
+  - [네이버 영화](https://movie.naver.com/)
