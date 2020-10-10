@@ -1,4 +1,4 @@
-# 집에서 뭐하지,, 영화보자!
+# Box Office Movie Ranking
 
 [시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/BoxOfficeMovieRanking/1)
 
