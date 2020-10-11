@@ -2,7 +2,7 @@
 
 [시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/BoxOfficeMovieRanking/1)
 
-SNS 보러가기
+[SNS 보러가기](https://www.instagram.com/p/CGNCBYOByvc/?utm_source=ig_web_copy_link)
 
 ### 1. 시각화
 
