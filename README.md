@@ -9,7 +9,7 @@
 - [헌혈에 대한 궁금증들 (헌혈, 좋은 것일까? 나쁜 것일까?)](https://github.com/JONGSKY/Visualization/tree/master/Blood_donation)
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
 - [Box Office Movie Ranking](https://github.com/JONGSKY/Visualization/tree/master/Movie)
-- 데이트 코스
+- 데이트 코스 (모바일 버전)
 - 모바일용 대시보드 : 음식점, 데이트 코스(나이별 연차별)
 - 컴퓨터 필요 자격증 정리
 
