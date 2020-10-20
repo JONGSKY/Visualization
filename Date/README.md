@@ -17,3 +17,4 @@ SNS 보러가기
 - [Tripadvisor](https://www.tripadvisor.co.kr/)
 - [myrealtrip](https://www.myrealtrip.com/)
 - [서울 열린데이터 광장 - 관광명소](http://data.seoul.go.kr/)
+- [서울특별시 빅데이터 캠퍼스 - 문화/관광](https://bigdata.seoul.go.kr/main.do)
