@@ -16,3 +16,4 @@ SNS 보러가기
 - [mangoplate](https://www.mangoplate.com/)
 - [Tripadvisor](https://www.tripadvisor.co.kr/)
 - [myrealtrip](https://www.myrealtrip.com/)
+- [서울 열린데이터 광장 - 관광명소](http://data.seoul.go.kr/)
