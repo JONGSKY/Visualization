@@ -9,8 +9,7 @@
 - [헌혈에 대한 궁금증들 (헌혈, 좋은 것일까? 나쁜 것일까?)](https://github.com/JONGSKY/Visualization/tree/master/Blood_donation)
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
 - [Box Office Movie Ranking](https://github.com/JONGSKY/Visualization/tree/master/Movie)
-- [데이트 코스 (모바일 버전)](https://github.com/JONGSKY/Visualization/tree/master/Date)
-- 컴퓨터 필요 자격증 정리
+- [서울, 어디로 놀러갈까(모바일 버전)](https://github.com/JONGSKY/Visualization/tree/master/Seoul_attractions)
 
 ## 시각화 규칙
 1. 적어도 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
