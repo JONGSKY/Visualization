@@ -16,6 +16,13 @@ SNS 보러가기
 - 다른 나라 언어들도 포함한 대시보드를 만들어보고 싶었습니다.
 
 ### 3. 데이터 출처
+
+- [서울시 분류별 관광명소 현황 (한국어)](https://data.seoul.go.kr/dataList/OA-2665/F/1/datasetView.do)
+- [서울시 분류별 관광명소 현황 (영어)](https://data.seoul.go.kr/dataList/OA-2666/F/1/datasetView.do)
+- [서울시 분류별 관광명소 현황 (일본어)](https://data.seoul.go.kr/dataList/OA-2667/F/1/datasetView.do)
+- [서울시 분류별 관광명소 현황 (중국어_간체)](https://data.seoul.go.kr/dataList/OA-2668/F/1/datasetView.do)
+- [서울시 분류별 관광명소 현황 (중국어_번체)](https://data.seoul.go.kr/dataList/OA-2669/F/1/datasetView.do)
+
 - [mangoplate](https://www.mangoplate.com/)
 - [Tripadvisor](https://www.tripadvisor.co.kr/)
 - [myrealtrip](https://www.myrealtrip.com/)
