@@ -1,6 +1,6 @@
 # 서울, 어디로 놀러갈까 (모바일버전)
 
-시각화 보러가기
+[시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/SeoulAttractions-Mobile/Seoul_attractions)
 
 SNS 보러가기
 
