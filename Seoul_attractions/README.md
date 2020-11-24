@@ -6,6 +6,8 @@ SNS 보러가기
 
 ### 1. 시각화
 
+![image](https://user-images.githubusercontent.com/40276516/100081385-4d2b9b00-2e8a-11eb-8519-a47ad78862df.png)
+
 ### 2. 시각화 설명
 
 - 서울 지역 내에서 할만한 데이트 코스를 제공합니다.
