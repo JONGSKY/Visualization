@@ -10,7 +10,8 @@
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
 - [Box Office Movie Ranking](https://github.com/JONGSKY/Visualization/tree/master/Movie)
 - [서울, 어디로 놀러갈까(모바일 버전)](https://github.com/JONGSKY/Visualization/tree/master/Seoul_attractions)
-- 배경으로 색다른 대시보드 제작해보기
+- 포트폴리오 시각화로 만들어보기
+
 
 ## 시각화 규칙
 1. 적어도 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
