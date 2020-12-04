@@ -10,7 +10,7 @@
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
 - [Box Office Movie Ranking](https://github.com/JONGSKY/Visualization/tree/master/Movie)
 - [서울, 어디로 놀러갈까(모바일 버전)](https://github.com/JONGSKY/Visualization/tree/master/Seoul_attractions)
-- 포트폴리오 시각화로 만들어보기
+- [JONGSKY, 너도 갈 수 있어!](https://github.com/JONGSKY/Visualization/tree/master/JONGSKY_Portfolio)
 
 
 ## 시각화 규칙
