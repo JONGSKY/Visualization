@@ -2,8 +2,6 @@
 
 [시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/SeoulAttractions-Mobile/Seoul_attractions)
 
-SNS 보러가기
-
 ### 1. 시각화
 
 ![image](https://user-images.githubusercontent.com/40276516/100081385-4d2b9b00-2e8a-11eb-8519-a47ad78862df.png)
