@@ -10,3 +10,4 @@
 
 ### 3. 데이터 출처
 - [벤치마킹 플랫폼](https://notefolio.net/untitledesignstudio/85983)
+- [야, 너두 개발자 포트폴리오 만들 수 있어](https://geonlee.tistory.com/9)
