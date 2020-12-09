@@ -13,3 +13,4 @@
 ### 3. 데이터 출처
 - [벤치마킹 플랫폼](https://notefolio.net/untitledesignstudio/85983)
 - [야, 너두 개발자 포트폴리오 만들 수 있어](https://geonlee.tistory.com/9)
+- [[포트폴리오・이력서] 개발자의 포트폴리오・이력서 작성법, 면접을 잘 보는 법](https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html)
