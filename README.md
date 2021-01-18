@@ -11,7 +11,7 @@
 - [Box Office Movie Ranking](https://github.com/JONGSKY/Visualization/tree/master/Movie)
 - [서울, 어디로 놀러갈까(모바일 버전)](https://github.com/JONGSKY/Visualization/tree/master/Seoul_attractions)
 - [JONGSKY, 너도 갈 수 있어!](https://github.com/JONGSKY/Visualization/tree/master/JONGSKY_Portfolio)
-
+- [임관 전, 버킷리스트]()
 
 ## 시각화 규칙
 1. 적어도 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
