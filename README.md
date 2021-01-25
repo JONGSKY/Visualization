@@ -5,13 +5,22 @@
 
 [SNS 보러가기](https://www.instagram.com/jongsky_data/)
 
+### 완성
+
 - [MBTI로 알아본 나의 연애 유형](https://github.com/JONGSKY/Visualization/tree/master/Love_MBTI)
 - [헌혈에 대한 궁금증들 (헌혈, 좋은 것일까? 나쁜 것일까?)](https://github.com/JONGSKY/Visualization/tree/master/Blood_donation)
 - [백종원의 골목식당](https://github.com/JONGSKY/Visualization/tree/master/Back_street)
 - [Box Office Movie Ranking](https://github.com/JONGSKY/Visualization/tree/master/Movie)
 - [서울, 어디로 놀러갈까(모바일 버전)](https://github.com/JONGSKY/Visualization/tree/master/Seoul_attractions)
-- [미완성] [JONGSKY, 너도 갈 수 있어!](https://github.com/JONGSKY/Visualization/tree/master/JONGSKY_Portfolio)
-- [제작중] [임관 전, To do List](https://github.com/JONGSKY/Visualization/tree/master/To_do_List)
+
+### 제작
+
+- [임관 전, To do List](https://github.com/JONGSKY/Visualization/tree/master/To_do_List)
+
+### 아이디어
+
+- [JONGSKY, 너도 갈 수 있어!](https://github.com/JONGSKY/Visualization/tree/master/JONGSKY_Portfolio)
+
 
 ## 시각화 규칙
 1. 적어도 한 달에 한 번 하고싶은 주제에 대해 시각화합니다.
