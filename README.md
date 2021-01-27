@@ -15,7 +15,7 @@
 
 ### 제작
 
-- [임관 전, Things to do](https://github.com/JONGSKY/Visualization/tree/master/To_do_List)
+- [임관 전, Things to do](https://github.com/JONGSKY/Visualization/tree/master/Things_to_do)
 
 ### 아이디어
 
