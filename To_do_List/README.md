@@ -6,7 +6,7 @@ SNS 보러가기
 
 ### 1. 시각화
 
-![background](https://user-images.githubusercontent.com/40276516/105680456-1d088300-5f33-11eb-8335-c0a6d52899ed.jpg)
+![image](https://user-images.githubusercontent.com/40276516/105929725-8f8c7680-608b-11eb-9398-1b8a2593b885.png)
 
 ### 2. 시각화 설명
 
