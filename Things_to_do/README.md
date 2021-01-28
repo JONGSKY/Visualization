@@ -2,7 +2,7 @@
 
 [시각화 보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/Thingstodo_16117116611500/Thingstodo)
 
-SNS 보러가기
+[SNS 보러가기](https://www.instagram.com/p/CKlELRWho8O/)
 
 ### 1. 시각화
 
