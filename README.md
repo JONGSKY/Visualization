@@ -21,6 +21,7 @@
 ### 아이디어
 
 - [JONGSKY, 너도 갈 수 있어!](https://github.com/JONGSKY/Visualization/tree/master/JONGSKY_Portfolio)
+- 간호사 일정 만들기
 
 
 ## 시각화 규칙
